@@ -1,4 +1,3 @@
-
 -- Billora database schema
 -- Run this in Supabase SQL Editor after creating your project.
 
